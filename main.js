@@ -21,7 +21,7 @@ function take_snapshot()
   
   // Initialize the Image Classifier method with MobileNet
 //classifier = ml5.imageClassifier('https://teachablemachine.withgoogle.com/models/JACkTMciY/model.json',modelLoaded);
-classifier = ml5.imageClassifier('https://teachablemachine.withgoogle.com/models/3rlSwf6KA/',modelLoaded);
+classifier = ml5.imageClassifier('https://teachablemachine.withgoogle.com/models/wwz8Qcfmd/',modelLoaded);
 
   // When the model is loaded
   function modelLoaded() {
